@@ -1,0 +1,12 @@
+ELEMENT_ARRAY_BASE_LOCATION = "C:\\Users\\DamnjanMilić\\Documents\\job_review\\22_08\\niz_elemenata_"  # Config constant
+AGRICO_REFERENCE_FILE_LOCATION = "C:\\Users\\DamnjanMilić\\Documents\\job_review\\22_08\\AgriCoCompilRef.xlsm"  # Config constant
+EXPO_FILE_LOCATION = "C:\\Users\\DamnjanMilić\\Documents\\job_review\\Agri_co\\Data_set\\Expo.xlsx"  # Config constant
+RE_CALCULATE_REFERENCE = True  # Config constant
+DIVIDERS_LIST = ['302070000', '302060000', '302019000', '302031000', '303060000']  # Config constant
+DIVERS_LIST_1000 = ['301011000', '302025000', '303051000']
+ANNUAL_PROFIT_NAME = 'Jahresgewinn (ohne Vorsorge)'  # Config constant
+ANIMAL_POPULATION_YEAR_ZERO_NAME = 'Tierbestand, Jahres-0, BeZ'  # Config constant
+student_file_location = "C:\\Users\\DamnjanMilić\\Documents\\job_review\\22_08\\proba_2.xlsx"
+student_id = 'markomarkovic@gmail.com_br_predmet'
+meta_data_location = "C:\\Users\\DamnjanMilić\\Documents\\job_review\\15_09\\MetadataAgriCoV1.0 (2).xlsx"
+Referent_data_location = "C:\\Users\\DamnjanMilić\\Documents\\job_review\\15_09\\REFE_control.xlsx"
